@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Juan" height="150" style="border-radius:50px" src="https://github.com/juancassiano/private_photos/blob/main/Design%20sem%20nome.gif">
+  <img align="right" alt="Juan" height="100" style="border-radius:50px" src="https://github.com/juancassiano/private_photos/blob/main/Design%20sem%20nome.gif">
 </div>
 
 ##
