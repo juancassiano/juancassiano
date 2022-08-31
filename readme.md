@@ -1,6 +1,6 @@
 ## Hi! I'm Juan Cassiano, and i'm learning new technologies. Actually, i'm learning JS,React, NodeJS, and its just de beginning!🚀
 
-### Passionate about technology since childhood, today I've been developing technical skills as a Backend developer, focusing on NodeJs, always looking to learn about best programming practices and how to use this knowledge to make ideas change lives.
+### Passionate about technology since childhood, today I've been developing technical skills as a Backend developer, always looking to learn about best programming practices and how to use this knowledge to make ideas change lives.
 
 ### I'm looking for opportunities that allow me to develop solutions and provide me with new challenges.
 
@@ -10,10 +10,13 @@
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
+  <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/>
+  <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
   <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Debian" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg">
   <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
 </div>
