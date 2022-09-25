@@ -1,5 +1,3 @@
-## Hi! I'm Juan Cassiano, and i'm learning new technologies. Actually, i'm learning JS,React, NodeJS, and its just de beginning!🚀
-
 ### Passionate about technology since childhood, today I've been developing technical skills as a Backend developer, always looking to learn about best programming practices and how to use this knowledge to make ideas change lives.
 
 ### I'm looking for opportunities that allow me to develop solutions and provide me with new challenges.
