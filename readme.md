@@ -30,11 +30,9 @@
   
   
 <div align="center">
+
+![Juan Cassiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancassiano&count_private=true&show_icons=true&theme=tokyonight)
   
-  <a href="https://github.com/juancassiano">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juancassiano&show_icons=true&theme=tokyonight&include_all_commits=true&    count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancassiano&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juancassiano&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancassiano&layout=compact&theme=tokyonight)](https://github.com/juancassiano/github-readme-stats)
 
 </div>
