@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Juan+Cassiano;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
+</div>
+
+<img align="right" height="300" width="300" src="https://i.pinimg.com/originals/b5/8a/9d/b58a9db03ded5029387722e84b32adb6.gif" >
+
 ### Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
 
 ### I'm open to opportunities that allow me to develop solutions and provide me with new challenges.
