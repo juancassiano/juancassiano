@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Juan+Cassiano;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
 </div>
 
-<img align="right" height="300" width="300" src="https://i.pinimg.com/564x/1a/69/80/1a6980a935ca7c53107d6f7ee0f88446.jpg" >
+<img align="right" height="300" width="300" src="https://i.pinimg.com/564x/11/51/a5/1151a54dc379b16ba74be49be5c9af70.jpg" >
 
 ### Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
 
@@ -23,7 +23,7 @@
   <img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/master/export/AppIcon.png">
   <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-   <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">                                                                                 
+   <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">                                                                                 
 </div>
 
 ##
