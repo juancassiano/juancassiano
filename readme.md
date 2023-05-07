@@ -2,11 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Juan+Cassiano;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
 </div>
 
-<img align="right" height="300" width="300" src="https://i.pinimg.com/564x/11/51/a5/1151a54dc379b16ba74be49be5c9af70.jpg" >
+<img align="right" height="280" width="280" src="https://i.pinimg.com/564x/11/51/a5/1151a54dc379b16ba74be49be5c9af70.jpg" >
 
-### Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
+### About Me
+Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
 
-### I'm open to opportunities that allow me to develop solutions and provide me with new challenges.
+### 
+I'm open to opportunities that allow me to develop solutions and provide me with new challenges.
 
 ## Main Tecnologies
 <div style="display: inline_block"><br>
@@ -31,16 +33,21 @@
                                                                                
 </div>
 
-##
+<br><br>
+
+## Contact me in my Social Media
 
 <div align="center"> 
  <a href="https://bit.ly/3zmaiAS" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="mailto:juancassiano@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/juan-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://twitter.com/forgetMyNamezz" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  </div>
   
-  
+ <br><br>
+ 
+ 
 <div align="center">
 
 ![Juan Cassiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancassiano&count_private=true&show_icons=true&theme=tokyonight)
