@@ -8,22 +8,27 @@
 
 ### I'm open to opportunities that allow me to develop solutions and provide me with new challenges.
 
+## Main Tecnologies
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
-  <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/>
+    <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/>
   <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/a81546056ac0b15ebf4f12aa0ce91d4940052ad6/logo-mark.svg">
-  <img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/master/export/AppIcon.png">
-  <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-   <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">                                                                                 
+   <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
+   <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/a81546056ac0b15ebf4f12aa0ce91d4940052ad6/logo-mark.svg">
+</div>
+  
+  ## Others Tecnologies
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Express" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
+        <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/master/export/AppIcon.png">
+                                                                               
 </div>
 
 ##
