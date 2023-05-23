@@ -30,6 +30,7 @@ I'm open to opportunities that allow me to develop solutions and provide me with
                 <img align="center" alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg">
         <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+    <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
        <img align="center" alt="TailwindCss" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
        
 
