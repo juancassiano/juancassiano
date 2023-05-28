@@ -4,7 +4,7 @@
 
 <img align="right" height="280" width="280" src="https://i.pinimg.com/564x/11/51/a5/1151a54dc379b16ba74be49be5c9af70.jpg" >
 
-### About Me
+## About Me
 Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
 
 ### 
