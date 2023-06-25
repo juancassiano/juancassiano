@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Juan+Cassiano;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
 </div>
 
-<img align="right" height="280" width="280" src="https://i.pinimg.com/564x/11/51/a5/1151a54dc379b16ba74be49be5c9af70.jpg" >
+<img align="right" height="280" width="280" src="https://i.pinimg.com/564x/36/9a/18/369a1888b6444a5521afc9a1307013da.jpg" >
 
 ## About Me
 Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
