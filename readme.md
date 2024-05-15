@@ -6,7 +6,7 @@
 Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
 
 ### 
-I'm open to opportunities that allow me to develop solutions and provide me with new challenges.
+I'm open to opportunities that allow me to develop solutions in new challenges.
 
 ## Main Tecnologies
 <div style="display: inline_block"><br>
