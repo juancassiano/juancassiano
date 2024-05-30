@@ -3,39 +3,27 @@
 </div>
 
 ## About Me
-Passionate about technology since childhood, nowadays I've been developing my technical skills as a backend developer, always looking forward to learning about best programming practices, frameworks, and processes and how to use this knowledge to make ideas change lives.
-
-### 
-I'm open to opportunities that allow me to develop solutions in new challenges.
+As a developer, I dive deeply into the backend universe, working with Java and Spring to build solid applications.
+###
+I'm looking for opportunities that challenge my continuous learning journey and allow me to contribute to projects that can change lives. Let's collaborate to create innovative solutions?
 
 ## Main Tecnologies
 <div style="display: inline_block"><br>
-    <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
    <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
    <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/a81546056ac0b15ebf4f12aa0ce91d4940052ad6/logo-mark.svg">
 </div>
   
   ## Others Tecnologies
   <div style="display: inline_block"><br>
-    <img align="center" alt="Typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Fastify" height=40" width="40" src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-1000px-square-01.png"/>
-    <img align="center" alt="Docker" height=40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-    <img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/master/export/AppIcon.png">
+    <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Docker" height=40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="Prisma" height="40" width="40" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg">
-    <img align="center" alt="VsCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-    <img align="center" alt="TailwindCss" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="TailwindCss" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
-       
-
-                                                                               
+    <img align="center" alt="Jira" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
+    <img align="center" alt="Golang" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+    <img align="center" alt="Quarkus" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">                                    
 </div>
 
 <br><br>
@@ -48,8 +36,6 @@ I'm open to opportunities that allow me to develop solutions in new challenges.
    <a href="https://www.linkedin.com/in/juan-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://twitter.com/forgetMyNamezz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
       <a href="https://dev.to/juancassiano" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
-      
-  
  </div>
   
  <br><br>
