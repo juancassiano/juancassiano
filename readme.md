@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Juan+Cassiano;%3C+backend+developer+%2F%3E" alt="Typing SVG" />
-</div>
-
 ## About Me
 As a developer, I dive deeply into the backend universe, working with Java and Spring to build solid applications.
 ###
