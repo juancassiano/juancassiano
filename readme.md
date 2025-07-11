@@ -1,14 +1,13 @@
 ## About Me
-As a developer, I dive deeply into the backend universe, working with Java and Spring to build solid applications.
+I’m a backend developer focused on crafting high-quality Java applications, leveraging frameworks like Spring and Quarkus to deliver scalable and maintainable systems.
 ###
-I'm looking for opportunities that challenge my continuous learning journey and allow me to contribute to projects that can change lives. Let's collaborate to create innovative solutions?
+With a strong foundation in API design and backend architecture, I enjoy solving complex problems and contributing to meaningful projects.
 
 ## Main Tecnologies
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
-   <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
-   <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
+    <img align="center" alt="Quarkus" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">                                    
     <img align="center" alt="Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
   
@@ -16,8 +15,8 @@ I'm looking for opportunities that challenge my continuous learning journey and 
   <div style="display: inline_block"><br>
     <img align="center" alt="Docker" height=40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
     <img align="center" alt="Golang" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-    <img align="center" alt="Quarkus" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">                                    
 </div>
 
 <br><br>
